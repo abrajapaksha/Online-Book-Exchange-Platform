@@ -1,0 +1,20 @@
+D:\ICT Project\Desktop App\Desktop App\obj\Debug\Desktop App.csproj.AssemblyReference.cache
+D:\ICT Project\Desktop App\Desktop App\obj\Debug\Desktop_App.addbooks.resources
+D:\ICT Project\Desktop App\Desktop App\obj\Debug\Desktop_App.dashbord.resources
+D:\ICT Project\Desktop App\Desktop App\obj\Debug\Desktop_App.Form1.resources
+D:\ICT Project\Desktop App\Desktop App\obj\Debug\Desktop_App.Form2.resources
+D:\ICT Project\Desktop App\Desktop App\obj\Debug\Desktop_App.Main_Form.resources
+D:\ICT Project\Desktop App\Desktop App\obj\Debug\Desktop_App.Properties.Resources.resources
+D:\ICT Project\Desktop App\Desktop App\obj\Debug\Desktop_App.Registration.resources
+D:\ICT Project\Desktop App\Desktop App\obj\Debug\Desktop App.csproj.GenerateResource.cache
+D:\ICT Project\Desktop App\Desktop App\obj\Debug\Desktop App.csproj.CoreCompileInputs.cache
+D:\ICT Project\Desktop App\Desktop App\bin\Debug\Register_Database.mdf
+D:\ICT Project\Desktop App\Desktop App\bin\Debug\Register_Database_log.ldf
+D:\ICT Project\Desktop App\Desktop App\bin\Debug\Desktop App.exe.config
+D:\ICT Project\Desktop App\Desktop App\bin\Debug\Desktop App.exe
+D:\ICT Project\Desktop App\Desktop App\bin\Debug\Desktop App.pdb
+D:\ICT Project\Desktop App\Desktop App\obj\Debug\Desktop App.exe
+D:\ICT Project\Desktop App\Desktop App\obj\Debug\Desktop App.pdb
+D:\ICT Project\Desktop App\Desktop App\obj\Debug\Desktop_App.View_Books.resources
+D:\ICT Project\Desktop App\Desktop App\obj\Debug\Desktop_App.RequestForm.resources
+D:\ICT Project\Desktop App\Desktop App\obj\Debug\Desktop_App.messages.resources

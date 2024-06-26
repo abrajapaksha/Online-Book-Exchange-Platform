@@ -1,0 +1,3 @@
+﻿ALTER TABLE books
+ADD image VARCHAR(MAX) NULL
+SELECT * FROM books
